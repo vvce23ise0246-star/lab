@@ -1,2 +1,7 @@
 hello
+<<<<<<< HEAD
 sujju bhai
+=======
+veeru
+>>>>>>> feat1
+add 3 line
